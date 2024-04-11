@@ -1,1 +1,5 @@
+# Adding config.py file
 WeatherPy/api_keys.py
+
+# Byte-compiled / optimized / DLL files
+WeatherPy/__pycache__/
